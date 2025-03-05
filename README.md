@@ -32,4 +32,4 @@ Run the cells sequentially to observe the chat-based task-solving approach in ac
 - Adding real-world use cases to validate the model.
 
 ## License
-This project is released under the MIT License.
+This project is released under the GNU V3 License.
